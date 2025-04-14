@@ -1,0 +1,22 @@
+[
+    {
+        "id":"c1-pe1",
+        "peoplename":"安基利柯",
+        "peoplephoto":"/images/c1-pe1.png"
+    },
+    {
+        "id":"c1-pe2",
+        "peoplename":"波堤且利",
+        "peoplephoto":"/images/c1-pe2.png"
+    },
+    {
+        "id":"c1-pe3",
+        "peoplename":"吉爾蘭達",
+        "peoplephoto":"/images/c1-pe3.png"
+    },
+    {
+        "id":"c1-pe4",
+        "peoplename":"曼迪那",
+        "peoplephoto":"/images/c1-pe4.png"
+    }
+]

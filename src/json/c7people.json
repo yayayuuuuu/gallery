@@ -1,0 +1,22 @@
+[
+    {
+        "id":"c7-pe1",
+        "peoplename":"安格爾",
+        "peoplephoto":"/images/c3-pe1.png"
+    },
+    {
+        "id":"c7-pe2",
+        "peoplename":"達維",
+        "peoplephoto":"/images/c3-pe2.jpg"
+    },
+    {
+        "id":"c7-pe3",
+        "peoplename":"天梭",
+        "peoplephoto":"/images/c3-pe3.jpg"
+    },
+    {
+        "id":"c3-pe4",
+        "peoplename":"葛雷柯",
+        "peoplephoto":"/images/c3-pe4.jpg"
+    }
+]

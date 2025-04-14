@@ -1,0 +1,32 @@
+[
+    {
+        "id":"c2-pe1",
+        "peoplename":"米開朗基羅",
+        "peoplephoto":"/images/c2-pe1.jpg"
+    },
+    {
+        "id":"c2-pe2",
+        "peoplename":"吉奧僑尼",
+        "peoplephoto":"/images/c2-pe2.jpg"
+    },
+    {
+        "id":"c2-pe3",
+        "peoplename":"達文西",
+        "peoplephoto":"/images/c2-pe3.jpeg"
+    },
+    {
+        "id":"c2-pe4",
+        "peoplename":"拉斐爾",
+        "peoplephoto":"/images/c2-pe4.jpg"
+    },
+    {
+        "id":"c2-pe5",
+        "peoplename":"貝里尼",
+        "peoplephoto":"/images/c2-pe5.jpg"
+    },
+    {
+        "id":"c2-pe6",
+        "peoplename":"提香",
+        "peoplephoto":"/images/c2-pe6.jpg"
+    }
+]

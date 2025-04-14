@@ -1,0 +1,22 @@
+[
+    {
+        "id":"c3-pe1",
+        "peoplename":"布勒哲爾",
+        "peoplephoto":"/images/c3-pe1.png"
+    },
+    {
+        "id":"c3-pe2",
+        "peoplename":"霍爾班",
+        "peoplephoto":"/images/c3-pe2.jpg"
+    },
+    {
+        "id":"c3-pe3",
+        "peoplename":"杜勒",
+        "peoplephoto":"/images/c3-pe3.jpg"
+    },
+    {
+        "id":"c3-pe4",
+        "peoplename":"孟陵",
+        "peoplephoto":"/images/c3-pe4.jpg"
+    }
+]

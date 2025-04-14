@@ -1,0 +1,22 @@
+[
+    {
+        "id":"c8-pe1",
+        "peoplename":"鮑格雷奧",
+        "peoplephoto":"/images/c3-pe1.png"
+    },
+    {
+        "id":"c8-pe2",
+        "peoplename":"皮耶考特",
+        "peoplephoto":"/images/c3-pe2.jpg"
+    },
+    {
+        "id":"c8-pe3",
+        "peoplename":"列斐伏爾",
+        "peoplephoto":"/images/c3-pe3.jpg"
+    },
+    {
+        "id":"c8-pe4",
+        "peoplename":"熱羅姆",
+        "peoplephoto":"/images/c3-pe4.jpg"
+    }
+]

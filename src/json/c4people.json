@@ -1,0 +1,22 @@
+[
+    {
+        "id":"c4-pe1",
+        "peoplename":"柯雷吉歐",
+        "peoplephoto":"/images/c3-pe1.png"
+    },
+    {
+        "id":"c4-pe2",
+        "peoplename":"丁托列多",
+        "peoplephoto":"/images/c3-pe2.jpg"
+    },
+    {
+        "id":"c4-pe3",
+        "peoplename":"布隆津諾",
+        "peoplephoto":"/images/c3-pe3.jpg"
+    },
+    {
+        "id":"c4-pe4",
+        "peoplename":"葛雷柯",
+        "peoplephoto":"/images/c3-pe4.jpg"
+    }
+]
