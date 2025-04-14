@@ -1,21 +1,30 @@
- const WorkCard=()=>{
-  return(
-        <div className="card w-60 bg-[#FFFBF3] shadow-md p-3 flex-shrink-0 hover:scale-105 transition-transform duration-200">
+import React from 'react';
+import { Link } from 'react-router-dom';
+
+const WorkCard = ({ item }) => {
+  return (
+    <Link to={`/work/${item.id}`} className="w-full sm:w-[45%] md:w-[30%] lg:w-[22%] flex-shrink-0">
+      <div className="bg-[#FFFBF3] shadow-md p-3 hover:scale-105 transition-transform duration-200 flex flex-col h-full">
         <figure className="w-full h-32 m-0 p-0 bg-gray-200">
-        <img
-            src={item.categoryphoto}
-            alt={`Image of ${item.categoryname}`}
+          <img
+            src={item.photo}
+            alt={`Image of ${item.name}`}
             className="w-full h-full object-cover opacity-50 hover:opacity-80 transition-opacity duration-200"
-        />
+          />
         </figure>
-        <div className="mt-2">
-            <h3 className="font-bold text-sm text-gray-600 sm:text-[16px] md:text-[18px]">{item.categoryname}</h3>
-            <p className="text-xs text-gray-600">
-            {item.categorydetail?.replace(/\n/g, '').slice(0, 50)}...
+        <div className="flex flex-col mt-2 flex-grow">
+          <h3 className="font-bold text-left text-black text-[20px] sm:text-[20px] md:text-[24px]">
+            {item.name}
+          </h3>
+          <div className="flex flex-col justify-end mt-auto">
+            <p className="text-left text-sm text-black opacity-60 sm:text-[12px] md:text-[14px]">
+              {item.author}
             </p>
+          </div>
         </div>
-    </div>
-  )
- };
- 
- export default WorkCard;
+      </div>
+    </Link>
+  );
+};
+
+export default WorkCard;

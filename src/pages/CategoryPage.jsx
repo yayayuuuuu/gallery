@@ -1,8 +1,9 @@
 import { useParams } from 'react-router-dom';
 import categoryData from '../json/category.json';
 import Header from '../components/Header';
-import PeopleCarousel from '../components/PeopleCarousel';
 import Banner from '../components/Banner';
+import PeopleCarousel from '../components/PeopleCarousel';
+import WorkGallery from '../components/WorkGallery';
 import Footer from '../components/Footer';
 
 const CategoryPage = () => {
@@ -17,6 +18,7 @@ const CategoryPage = () => {
       <Banner data={category} />
 
       <PeopleCarousel id={id} />
+      <WorkGallery />
 
       <Footer />
     </div>

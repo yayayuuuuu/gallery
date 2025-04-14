@@ -1,7 +1,7 @@
 [
  {
-    "ID":1,
-    "name":"相遇 Noli Me Tangere",
+    "id":"Angelico002",
+    "name":"相遇Noli Me Tangere",
     "serial-number":"Angelico002",
     "author":"安基利柯",
     "year":"1440 - 41",
@@ -11,7 +11,7 @@
     "photo":"/images/p1.jpg"
   },
   {
-    "ID":2,
+    "id":"Angelico001",
     "name":"聖告圖 The Annunciation",
     "serial-number":"Angelico001",
     "author":"安基利柯",
@@ -22,7 +22,7 @@
     "photo":"/images/p2.jpg"
   },
   {
-    "ID":3,
+    "id":"Angelico02",
     "name":"受難 The Crucifixion",
     "serial-number":"Angelico024",
     "author":"安基利柯",
@@ -34,7 +34,7 @@
   },
  
   {
-    "ID":4,
+    "id":"Angelico031",
     "name":"報佳音 Verkundigung an Maria",
     "serial-number":"Angelico031",
     "author":"安基利柯",
@@ -45,7 +45,7 @@
     "photo":"/images/p4.jpg"
   },
   {
-    "ID":5,
+    "id":"Mantegna028",
     "name":"復活 The Resurrection",
     "serial-number":"Mantegna028",
     "author":"曼迪那",
@@ -56,7 +56,7 @@
     "photo":"/images/p5.png"
   },
   {
-    "ID":6,
+    "id":"Mantegna029",
     "name":"婚禮堂 Camera degli Sposi",
     "serial-number":"Mantegna029",
     "author":"曼迪那",
@@ -67,7 +67,7 @@
     "photo":"/images/p6.jpg"
   },
   {
-    "ID":7,
+    "id":"Mantegna032",
     "name":"三部曲 Trittico",
     "serial-number":"Mantegna032",
     "author":"曼迪那",
@@ -78,7 +78,7 @@
     "photo":"/images/p7.jpg"
   },
   {
-    "ID":8,
+    "id":"Mantegna03",
     "name":"奉獻 The Presentation",
     "serial-number":"Mantegna033",
     "author":"曼迪那",
@@ -87,17 +87,6 @@
     "material":"油彩．楊木板 Oil on poplar wood",
     "detail":"",
     "photo":"/images/p8.jpg"
-  },
-  {
-    "ID":9,
-    "name":"",
-    "serial-number":"",
-    "author":"",
-    "year":"",
-    "size":"",
-    "material":"",
-    "detail":"",
-    "photo":""
   }
 
 ]
