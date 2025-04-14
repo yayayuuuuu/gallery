@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const WorkCard = ({ item }) => {
   return (
-    <Link to={`/work/${item.id}`} className="w-full sm:w-[45%] md:w-[30%] lg:w-[22%] flex-shrink-0">
+    <Link to={`/work/${item.category}/${item.id}`} className="w-full sm:w-[45%] md:w-[30%] lg:w-[22%] flex-shrink-0">
       <div className="bg-[#FFFBF3] shadow-md p-3 hover:scale-105 transition-transform duration-200 flex flex-col h-full">
         <figure className="w-full h-32 m-0 p-0 bg-gray-200">
           <img

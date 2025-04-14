@@ -3,11 +3,11 @@ import categoryData from '../json/category.json';
 import Header from '../components/Header';
 import Banner from '../components/Banner';
 import PeopleCarousel from '../components/PeopleCarousel';
-import WorkGallery from '../components/WorkGallery';
+import GallerySection from '../components/GallerySection';
 import Footer from '../components/Footer';
 
 const CategoryPage = () => {
-  const { id } = useParams();
+  const { id } = useParams(); // id = c1 / c2 / c3...
   const category = categoryData.find(item => item.id === id);
 
   if (!category) return <div className="text-center py-10">找不到類別</div>;
@@ -16,9 +16,10 @@ const CategoryPage = () => {
     <div className="w-full max-w-[1366px] mx-auto bg-base-100">
       <Header />
       <Banner data={category} />
-
       <PeopleCarousel id={id} />
-      <WorkGallery />
+
+      
+      <GallerySection categoryId={id} />
 
       <Footer />
     </div>
@@ -26,6 +27,7 @@ const CategoryPage = () => {
 };
 
 export default CategoryPage;
+
 
 
 
