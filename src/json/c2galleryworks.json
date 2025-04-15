@@ -1,92 +1,92 @@
 [
     {
-       "id":"Angelico002",
-       "name":"相遇Noli Me Tangere",
-       "serial-number":"Angelico002",
-       "author":"安基利柯",
-       "year":"1440 - 41",
-       "size":"180 x 146cm",
+       "id":"Michelangel008",
+       "name":"大洪水 The Flood",
+       "serial-number":"Michelangel008",
+       "author":"米開朗基羅",
+       "year":"1508 - 12",
+       "size":"230 x 480cm",
        "material":"壁畫 Fresco",
-       "detail":"約翰福音第二十章記載：耶穌說：「馬利亞。」馬利亞就轉過來.用希伯來話對他說：「拉波尼（夫子）！」耶穌說：「不要摸我.因我還沒有升上去見我的父。你往我弟兄那裡去.告訴他們說.我要升上去見我的父.也是你們的父.見我的神.也是你們的神」。 抹大拉的馬利亞就去告訴門徒說.我已經看見了主。耶穌手持鋤頭.是因為馬利亞原本誤認其為園丁.而畫家以此來表現。",
-       "photo":"/images/p1.jpg"
+       "detail":"《大洪水》這幅溼壁畫是米開朗基羅在西斯汀禮拜堂拱頂上繪製的第一個聖經故事。\n此畫描繪著一群逃難者躲藏在被上帝的閃電擊中的帳篷下面.閃電是上帝大發雷霆的象徵。\n畫面充滿悲愴和痛苦之情；那些備受痛苦的人類赤裸著身軀.四肢扭曲伸展、複雜地交織著.表現人類絕望和受上天懲罰的戲劇性場面是通過那些迷途罪人的姿態和表情展現出來的.他們有的互相幫助和照顧.另一些則在為苟延性命而苦苦掙扎。\n綠色、藍紫色和粉紅色之間的色彩反差增強了大難臨頭的氣氛。看著這些由於受磨難而表情滯重的人物向前行進.我們幾乎能聽到狂風搖撼樹枝時的呼嘯.幾乎能感覺到上帝憤怒時的恐怖氣氛。",
+       "photo":"/images/c2-Michelangel008.png"
      },
      {
-       "id":"Angelico001",
-       "name":"聖告圖 The Annunciation",
-       "serial-number":"Angelico001",
-       "author":"安基利柯",
-       "year":"1430",
-       "size":"230 x 321cm",
+       "id":"Michelangel014",
+       "name":"伊紐多 Ignudo",
+       "serial-number":"Michelangel014",
+       "author":"米開朗基羅",
+       "year":"1508 - 12",
+       "size":"170 x 120cm",
        "material":"壁畫 Fresco",
-       "detail":"麥第奇家族是當時佛羅倫斯共和國的政治領袖.他們對藝術家的保護.大大鼓舞了初期文藝復興藝術的發展.安基利柯修士剛好在那時受命為聖馬可修道院進行裝飾工作和繪製濕壁畫。修士們的房間排列在走廊約兩邊.中央迴廊一般稱為聖安東尼迴廊；沿著迴廊是每個修士的房間.都用一幅以福音為主題的濕壁畫做為裝飾。《聖告圖》裝飾在北迴廊盡頭.樓梯前的一堵牆上.在這幅畫中可以看到藝術家在技法上有相當的進步。他對於內部空間的把握更加有力.不但完全表露出其深度.也描繪出文藝復興時期.建築物迴廊高大、宏偉的感覺.更沈穩也更有立體感。安基利柯修士一直傾向畫大幅畫.但也十分注重細節的描繪.他的畫風已逐漸由金碧輝煌走向深沉寧靜。由於宗教畫的實際需要.以及繪畫素材本身的有力感人風格.他的筆法更加簡單.更加豪放.作品也更臻於遒勁有力的境界。",
-       "photo":"/images/p2.jpg"
+       "detail":"米開朗基羅大膽更改教皇當初新約十二使徒的構圖規劃，而改以更複雜的舊約九幅主題畫，加上先知及裸體青年（他特別命名為Ignudo）組成繁複的架構。",
+       "photo":"/images/c2-Michelangel014.png"
      },
      {
-       "id":"Angelico02",
-       "name":"受難 The Crucifixion",
-       "serial-number":"Angelico024",
-       "author":"安基利柯",
-       "year":"1420 - 23",
-       "size":"63.8 x 48.3cm",
-       "material":"蛋彩．木板 Tempera on wood",
-       "detail":"",
-       "photo":"/images/p3.jpg"
+       "id":"Michelangel016",
+       "name":"希貝爾 The Cumaean Sibyl",
+       "serial-number":"Michelangel016",
+       "author":"米開朗基羅",
+       "year":"1510",
+       "size":"380 x 270gfcm",
+       "material":"壁畫 Fresco",
+       "detail":"被神選中的人，享有長生不老的壽命，他們的外貌就停留在被神選中時的樣子，女預言家希貝爾就是其中之一。\n特洛伊英雄愛尼亞士（Aeneas）來到庫邁（cumae）向希貝爾求教，希貝爾告訴他，只有從聖樹上砍下金枝，並交給普羅瑟碧娜（女閻羅 Proserpine）才能在地獄裡見到他父親的鬼魂。",
+       "photo":"/images/c2-Michelangel016.png"
      },
     
      {
-       "id":"Angelico031",
-       "name":"報佳音 Verkundigung an Maria",
-       "serial-number":"Angelico031",
-       "author":"安基利柯",
-       "year":"1430 - 32",
-       "size":"154 x 194cm",
+       "id":"Michelangel020",
+       "name":"喬爾 Joel",
+       "serial-number":"Michelangel020",
+       "author":"米開朗基羅",
+       "year":"1509",
+       "size":"420 x 355cm",
+       "material":"壁畫 Fresco",
+       "detail":"聖經中的一位希伯来先知.喬爾（Joel）希伯來文原義為耶和華是主。他是個有點矮小的人.雖然滿驕傲的.可是人還不錯.也很受歡。",
+       "photo":"/images/c2-Michelangel020.png"
+     },
+     {
+       "id":"Michelangel015",
+       "name":"耶利米 Jeremiah",
+       "serial-number":"Michelangel015",
+       "author":"米開朗基羅 ",
+       "year":"1508 - 12",
+       "size":"380 x 250cm",
+       "material":"壁畫 Fresco",
+       "detail":"耶利米生於祭司的家庭，約西亞王第十三年（公元前 627 年）蒙召，以後在猶大歷史中最黑暗的時期，克盡他先知的職份凡四十年。\n他感情豐富而又多愁善感，通常被稱作「流淚的先知」。他奉差遣傳神審判的信息，一再忍受反對、鞭打、監禁等逼迫。面對百姓的罪惡與神將臨的懲罰，他內心的痛苦與衝突達到極點，但他仍忠心地傳講與國家政策相違的信息，甚至必須與政治，宗教領袖敵對，在那個周圍有各樣攻擊的環境中，神讓耶利米單獨憑著信心繼續傳道。",
+       "photo":"/images/c2-Michelangel015.png"
+     },
+     {
+       "id":"Michelangel013",
+       "name":"先知丹尼爾 Prophet Daniel",
+       "serial-number":"Michelangel013",
+       "author":"米開朗基羅 ",
+       "year":"1508 - 12",
+       "size":"340 x 240cm",
+       "material":"壁畫 Fresco",
+       "detail":"Daniel 的希伯來文字義是：「天主是我的審判」，或是「天主的審判」之意。\n關於丹尼爾的生平與預言，都記載在《丹尼爾先知書》裡。按此書記載，他是猶大支派貴族的後裔，且可能是在約史雅王執政的期間，於主前 620 年左右在耶路撒冷誕生。\n按基督徒傳統，丹尼爾與其他三位先知：以賽亞、耶利米和以西，一同並列為「四大先知」，這種觀點與猶太傳統有相當程度上的差異；基本上，猶太傳統將此書歸類在《希伯來聖經》中「聖卷」（Writings）類別裡，屬於「天啟文學」的類型。但丹尼爾究竟是否該被列為先知，無論是猶太傳統或基督徒傳統，各自都有不同的看法。",
+       "photo":"/images/c2-Michelangel013.png"
+     },
+     {
+       "id":"Michelangel021",
+       "name":"諾亞之醉 Drunkenness of Noah",
+       "serial-number":"Michelangel021",
+       "author":"米開朗基羅",
+       "year":"1508 - 12",
+       "size":"160 x 260cm",
+       "material":"壁畫 Fresco",
+       "detail":"《聖經創世紀第八、九章提及諾亞醉酒的故事：諾亞開始耕作土地，並種下第一棵葡萄樹，然後又開始著手釀酒。有一天，他一人在帳篷裏獨自開懷豪飲，爛醉如泥。他的兒子可汗發現諾亞赤身裸體的醉倒在地上後，便叫西姆和迦費特來幫忙。這兩人來的時候拿著長袍，倒退進帳篷背著面給父親蓋上，並沒有看父親裸露的身體。\n諾亞酒醒後，知道自己酒後失態，於是遷怒兒子可汗，要上帝讓可汗的兒子迦南一族做迦費特家族的奴隸，這故事說明了人類「酒後無德」的問題。",
+       "photo":"/images/c2-Michelangel021.png"
+     },
+     {
+       "id":"Michelangel001",
+       "name":"聖母畫像 The Manchester Madonna",
+       "serial-number":"Michelangel001",
+       "author":"米開朗基羅 ",
+       "year":"1465",
+       "size":"104.5 x 77cm",
        "material":"蛋彩．木板 Tempera on wood",
        "detail":"",
-       "photo":"/images/p4.jpg"
-     },
-     {
-       "id":"Mantegna028",
-       "name":"復活 The Resurrection",
-       "serial-number":"Mantegna028",
-       "author":"曼迪那",
-       "year":"1457 - 59",
-       "size":"71.1 x 94cm",
-       "material":"油彩．木板 Oil on wood",
-       "detail":"",
-       "photo":"/images/p5.png"
-     },
-     {
-       "id":"Mantegna029",
-       "name":"婚禮堂 Camera degli Sposi",
-       "serial-number":"Mantegna029",
-       "author":"曼迪那",
-       "year":"1465 - 74",
-       "size":"805 x 807cm",
-       "material":"壁畫 Fresco",
-       "detail":"1456年，路德維科．貢薩加邀請曼迪那到曼多來定居，以取代當時的宮近畫家畢薩內洛的位置，當作是對他的特殊獎賞。曼迪那的作品《婚禮堂》，是他曾在曼多活動的證明。畫中的房間裝飾華麗，虛構出一個由柱子支撐的大理石大廳，一面被繡金的布遮蓋，另一面的布幕敞開，露出畫面的眾多宮廷人物。\n北牆有一個壁爐，畫家大膽地將它放進構圖之中，壁爐上方，路德維科．貢薩加從他秘書手中接過一份公文，旁邊坐著他的妻子巴巴拉．底．班德布格，周圍站著他的家人，而一些朝臣在台階上走動著。",
-       "photo":"/images/p6.jpg"
-     },
-     {
-       "id":"Mantegna032",
-       "name":"三部曲 Trittico",
-       "serial-number":"Mantegna032",
-       "author":"曼迪那",
-       "year":"1463 - 64",
-       "size":"86 x 161.5cm",
-       "material":"蛋彩．畫板 Tempera on panel",
-       "detail":"《基督升天圖》、《東方博士的朝拜》、《割禮》共同組成了這幅《烏菲玆三聯畫》.其中《割禮》似乎和曼迪那其他所有的畫作特點一樣.建築造型在畫中十分地搶眼突出.這些建築物都充滿了古典色彩.特別是牆壁和框架上的精緻裝飾.以及表現出來的大理石和金屬物的富貴華麗的質感。整幅畫面籠罩著一種特殊的現實主義氣氛.尤其是從不同的人物類型、動作和服飾的細節.都一一地表現了出來。畫面中央矗立著一根科林斯式的圓柱.位於神父和聖母問的中心地帶.其他人物則圍在兩邊.呈半圓狀。左邊看起來十分疲憊的老者.是神父的助手.另外還有一個小教士.手上則捧著一個托盤；在聖母的身後.站在最前方的是一個小孩.兩個親人則在他的身旁。 畫家在畫面中所表現出其構圖的獨特性.主要在於上半部的雄偉建築.而下半部則用來敘述故事.但是晝中細部的精緻描繪.更能傳達出故事的寓意.和一種感人的力量.好像是在殷切地邀請觀賞者進入殿堂中.進而能夠靠近畫面的中心人物.並仔細地觀察他們的臉龐.以及他們各種不同的特點和姿態。",
-       "photo":"/images/p7.jpg"
-     },
-     {
-       "id":"Mantegna03",
-       "name":"奉獻 The Presentation",
-       "serial-number":"Mantegna033",
-       "author":"曼迪那",
-       "year":"1465",
-       "size":"69 x 86.3cm",
-       "material":"油彩．楊木板 Oil on poplar wood",
-       "detail":"",
-       "photo":"/images/p8.jpg"
+       "photo":"/images/c2-Michelangel001.png"
      }
    
    ]

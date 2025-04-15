@@ -13,7 +13,7 @@ const CategoryPage = () => {
   if (!category) return <div className="text-center py-10">找不到類別</div>;
 
   return (
-    <div className="w-full max-w-[1366px] mx-auto bg-base-100">
+    <div className="w-full mx-auto bg-base-100">
       <Header />
       <Banner data={category} />
       <PeopleCarousel id={id} />

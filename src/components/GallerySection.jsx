@@ -19,7 +19,7 @@ const GallerySection = ({ categoryId }) => {
   }, [categoryId]);
 
   return (
-    <div className="p-4 flex flex-wrap gap-4 justify-center">
+    <div className="p-4 flex flex-wrap gap-4 justify-center mx-12">
       {works.map((item) => (
         <WorkCard key={item.ID} item={{ ...item, category: categoryId }} />
       ))}

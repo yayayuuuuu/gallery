@@ -1,92 +1,92 @@
 [
     {
-       "id":"Angelico002",
-       "name":"相遇Noli Me Tangere",
-       "serial-number":"Angelico002",
-       "author":"安基利柯",
-       "year":"1440 - 41",
-       "size":"180 x 146cm",
-       "material":"壁畫 Fresco",
-       "detail":"約翰福音第二十章記載：耶穌說：「馬利亞。」馬利亞就轉過來.用希伯來話對他說：「拉波尼（夫子）！」耶穌說：「不要摸我.因我還沒有升上去見我的父。你往我弟兄那裡去.告訴他們說.我要升上去見我的父.也是你們的父.見我的神.也是你們的神」。 抹大拉的馬利亞就去告訴門徒說.我已經看見了主。耶穌手持鋤頭.是因為馬利亞原本誤認其為園丁.而畫家以此來表現。",
-       "photo":"/images/p1.jpg"
-     },
-     {
-       "id":"Angelico001",
-       "name":"聖告圖 The Annunciation",
-       "serial-number":"Angelico001",
-       "author":"安基利柯",
-       "year":"1430",
-       "size":"230 x 321cm",
-       "material":"壁畫 Fresco",
-       "detail":"麥第奇家族是當時佛羅倫斯共和國的政治領袖.他們對藝術家的保護.大大鼓舞了初期文藝復興藝術的發展.安基利柯修士剛好在那時受命為聖馬可修道院進行裝飾工作和繪製濕壁畫。修士們的房間排列在走廊約兩邊.中央迴廊一般稱為聖安東尼迴廊；沿著迴廊是每個修士的房間.都用一幅以福音為主題的濕壁畫做為裝飾。《聖告圖》裝飾在北迴廊盡頭.樓梯前的一堵牆上.在這幅畫中可以看到藝術家在技法上有相當的進步。他對於內部空間的把握更加有力.不但完全表露出其深度.也描繪出文藝復興時期.建築物迴廊高大、宏偉的感覺.更沈穩也更有立體感。安基利柯修士一直傾向畫大幅畫.但也十分注重細節的描繪.他的畫風已逐漸由金碧輝煌走向深沉寧靜。由於宗教畫的實際需要.以及繪畫素材本身的有力感人風格.他的筆法更加簡單.更加豪放.作品也更臻於遒勁有力的境界。",
-       "photo":"/images/p2.jpg"
-     },
-     {
-       "id":"Angelico02",
-       "name":"受難 The Crucifixion",
-       "serial-number":"Angelico024",
-       "author":"安基利柯",
-       "year":"1420 - 23",
-       "size":"63.8 x 48.3cm",
-       "material":"蛋彩．木板 Tempera on wood",
+       "id":"Bruegel004",
+       "name":"收割者 The Harvesters",
+       "serial-number":"Bruegel004",
+       "author":"布勒哲爾",
+       "year":"1565",
+       "size":"118.1 x 160.7cm",
+       "material":"油彩．木板 Oil on wood",
        "detail":"",
-       "photo":"/images/p3.jpg"
+       "photo":"/images/c3-Bruegel004.png"
+     },
+     {
+       "id":"Bruegel016",
+       "name":"乞丐 The Beggars",
+       "serial-number":"Bruegel016",
+       "author":"布勒哲爾",
+       "year":"1568",
+       "size":"18 x 21cm",
+       "material":"油彩．畫板 Oil on panel",
+       "detail":"",
+       "photo":"/images/c3-Bruegel016.png"
+     },
+     {
+       "id":"Bruegel002",
+       "name":"農民舞蹈 The Peasant Dance",
+       "serial-number":"Bruegel002",
+       "author":"布勒哲爾 ",
+       "year":"1568",
+       "size":"114 x 164cm",
+       "material":"油彩．木板 Oil on wood",
+       "detail":"這幅作品顯示出老布勒哲爾描繪日常生活景象的本領.它和著名的農民婚禮一樣.不僅說明了老布勒哲爾對農人生活的喜愛.也解釋了他為什麼有農夫老布勒哲爾的封號。農民舞會可能是老布勒哲爾的晚年之作.他將人物的尺寸略為增加.遼闊的空間也可以看到了.圖式和動作不再平面化.而向深處延展。",
+       "photo":"/images/c3-Bruegel002.png"
      },
     
      {
-       "id":"Angelico031",
-       "name":"報佳音 Verkundigung an Maria",
-       "serial-number":"Angelico031",
-       "author":"安基利柯",
-       "year":"1430 - 32",
-       "size":"154 x 194cm",
-       "material":"蛋彩．木板 Tempera on wood",
-       "detail":"",
-       "photo":"/images/p4.jpg"
+       "id":"Bruegel023",
+       "name":"荷蘭諺語 The Dutch Proverbs",
+       "serial-number":"Bruegel023",
+       "author":"布勒哲爾",
+       "year":"1559",
+       "size":"117 x 163cm",
+       "material":"油彩．橡木板 Oil on oak panel",
+       "detail":"布勒哲爾平素性格怪僻.畫題有時也令人百思難解。他的古怪的畫意卻標誌著他鮮明的階級立場。他對農民的生活懷有深切的同情.一生以農村生活作爲藝術創作題材.在歐洲畫史上.他是最早的一位自覺的農民畫家.人稱“農民布勒哲爾”。布勒哲爾借著對事物細節之忠實描繪與怪誕幻想之唐突對比於畫中.創作出人世的縮影。畫風古樸而率直.其深刻的觀察.不論是在刻畫農民生活的寫實作品.亦或表達時代背景的諷刺畫作中都一攬無遺。",
+       "photo":"/images/c3-Bruegel023.png"
      },
      {
-       "id":"Mantegna028",
-       "name":"復活 The Resurrection",
-       "serial-number":"Mantegna028",
-       "author":"曼迪那",
-       "year":"1457 - 59",
-       "size":"71.1 x 94cm",
+       "id":"Bruegel008",
+       "name":"孩子們的遊戲 Children ’s Games",
+       "serial-number":"Bruegel008",
+       "author":"布勒哲爾 ",
+       "year":"1560",
+       "size":"118 x 161cm",
        "material":"油彩．木板 Oil on wood",
+       "detail":"這幅畫表現了各種年齡的兒童.正在玩著各種遊戲。畫中共有八十種遊戲.例如雜耍、騎柵欄、曲棍球、蛙跳、游泳、捉迷藏、爬樹、格鬥、追逐、瞎子摸人等。許多玩具我們也認得出.例如鐵環、陀螺.還有類似氣球的東西。 布勒哲爾筆下的孩子並不怎麼純真漂亮.你如果仔細看他們的臉.就會發現許多孩子做遊戲時顯得很淘氣.甚至很醜。不過這幅畫的含義不止畫面上表現的一切。 雖然這幅畫叫做「孩子們的遊戲」.但是其實並不在描寫孩子。布勒哲爾的畫通常都很嚴肅.它講述一個道德故事.或對生活提出某種告誡。這幅畫可能是要告誡那些忙於日常生活的人：在上帝眼裡.我們都是孩子。大人從事的一切就像遊戲一樣.也不是重要的。上帝在主宰一切.人們必須記住這一點。",
+       "photo":"/images/c3-Bruegel008.png"
+     },
+     {
+       "id":"Bruegel014",
+       "name":"巴比倫塔 The Tower of Babel",
+       "serial-number":"Bruegel014",
+       "author":"布勒哲爾",
+       "year":"1563",
+       "size":"114 x 155cm",
+       "material":"油彩．木板 Oil on woo",
+       "detail":"這幅畫名稱中的的英文Babel，又稱為 Babylon，所以又可稱為《巴比倫塔》。巴比倫塔的故事描述在舊約聖經《創世紀》篇﹝Genesis 11: 1-9﹞，地球的人民違背上帝的意旨建立一座可以到達天堂的巨大廟塔。\n老布勒哲爾把此一傑作畫成人類虛榮與無常的比喻，他一方面以巨大的建築壓跨下面的城市，一方面又以未完成與不確實的建築造成脆弱不安的印象。\n這座巴貝爾塔的設計據說受到羅馬大圓劇場的暗示，圖中表示老布勒哲爾對該建築的特殊興趣，以及他對於人性無止境的好奇心之表現。\n老布勒哲爾認為人類不過是宇宙較為宏大的生命現象之一，他為了要給觀賞者一種畏懼感.因此將異常廣大的視界與細部的周詳描寫融合起來，將各個部份畫得極其精緻美妙。",
+       "photo":"/images/c3-Bruegel014.png"
+     },
+     {
+       "id":"Bruegel035",
+       "name":"乾草堆 Haymaking",
+       "serial-number":"Bruegel035",
+       "author":"布勒哲爾",
+       "year":"1565",
+       "size":"116.2 x 160.7cm",
+       "material":"油彩．畫板 Oil on panel",
        "detail":"",
-       "photo":"/images/p5.png"
+       "photo":"/images/c3-Bruegel035.png"
      },
      {
-       "id":"Mantegna029",
-       "name":"婚禮堂 Camera degli Sposi",
-       "serial-number":"Mantegna029",
-       "author":"曼迪那",
-       "year":"1465 - 74",
-       "size":"805 x 807cm",
-       "material":"壁畫 Fresco",
-       "detail":"1456年，路德維科．貢薩加邀請曼迪那到曼多來定居，以取代當時的宮近畫家畢薩內洛的位置，當作是對他的特殊獎賞。曼迪那的作品《婚禮堂》，是他曾在曼多活動的證明。畫中的房間裝飾華麗，虛構出一個由柱子支撐的大理石大廳，一面被繡金的布遮蓋，另一面的布幕敞開，露出畫面的眾多宮廷人物。\n北牆有一個壁爐，畫家大膽地將它放進構圖之中，壁爐上方，路德維科．貢薩加從他秘書手中接過一份公文，旁邊坐著他的妻子巴巴拉．底．班德布格，周圍站著他的家人，而一些朝臣在台階上走動著。",
-       "photo":"/images/p6.jpg"
-     },
-     {
-       "id":"Mantegna032",
-       "name":"三部曲 Trittico",
-       "serial-number":"Mantegna032",
-       "author":"曼迪那",
-       "year":"1463 - 64",
-       "size":"86 x 161.5cm",
-       "material":"蛋彩．畫板 Tempera on panel",
-       "detail":"《基督升天圖》、《東方博士的朝拜》、《割禮》共同組成了這幅《烏菲玆三聯畫》.其中《割禮》似乎和曼迪那其他所有的畫作特點一樣.建築造型在畫中十分地搶眼突出.這些建築物都充滿了古典色彩.特別是牆壁和框架上的精緻裝飾.以及表現出來的大理石和金屬物的富貴華麗的質感。整幅畫面籠罩著一種特殊的現實主義氣氛.尤其是從不同的人物類型、動作和服飾的細節.都一一地表現了出來。畫面中央矗立著一根科林斯式的圓柱.位於神父和聖母問的中心地帶.其他人物則圍在兩邊.呈半圓狀。左邊看起來十分疲憊的老者.是神父的助手.另外還有一個小教士.手上則捧著一個托盤；在聖母的身後.站在最前方的是一個小孩.兩個親人則在他的身旁。 畫家在畫面中所表現出其構圖的獨特性.主要在於上半部的雄偉建築.而下半部則用來敘述故事.但是晝中細部的精緻描繪.更能傳達出故事的寓意.和一種感人的力量.好像是在殷切地邀請觀賞者進入殿堂中.進而能夠靠近畫面的中心人物.並仔細地觀察他們的臉龐.以及他們各種不同的特點和姿態。",
-       "photo":"/images/p7.jpg"
-     },
-     {
-       "id":"Mantegna03",
-       "name":"奉獻 The Presentation",
-       "serial-number":"Mantegna033",
-       "author":"曼迪那",
-       "year":"1465",
-       "size":"69 x 86.3cm",
-       "material":"油彩．楊木板 Oil on poplar wood",
+       "id":"Bruegel024",
+       "name":"三個士兵 The Three Soldiers",
+       "serial-number":"Bruegel024",
+       "author":"布勒哲爾",
+       "year":"1568",
+       "size":"20.3 x 17.8cm",
+       "material":"油彩．橡木板 Oil on oak panel",
        "detail":"",
-       "photo":"/images/p8.jpg"
+       "photo":"/images/c3-Bruegel024.png"
      }
    
    ]
