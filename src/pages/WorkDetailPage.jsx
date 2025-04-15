@@ -31,7 +31,7 @@ const WorkDetailPage = () => {
     <div className="w-full  mx-auto bg-base-100">
       <Header />
 
-        <div className="p-6 flex flex-col items-center text-black mx-4">
+        <div className="p-6 flex flex-col items-center text-black mx-10 mt-10">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-4xl items-stretch">
                 
                 
@@ -44,7 +44,7 @@ const WorkDetailPage = () => {
                 </div>
 
                 {/* 文字資訊 */}
-                <div className="flex flex-col justify-start space-y-2 text-left">
+                <div className="flex flex-col justify-start space-y-2 text-left ">
                 <p className="text-[32px] sm:text-[32px] md:text-[48px] font-bold">{work.name}</p>
                 <p className="text-[18px] md:text-[20px]"><strong>編　號：</strong>{work["serial-number"]}</p>
                 <p className="text-[18px] md:text-[20px]"><strong>作　者：</strong>{work.author}</p>
