@@ -3,6 +3,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import Header from '../components/Header';
+import ShopButton from '../components/ShopButton';
 import Footer from '../components/Footer';
 
 const WorkDetailPage = () => {
@@ -60,6 +61,7 @@ const WorkDetailPage = () => {
             </div>
         </div>
 
+      <ShopButton />
 
       <Footer />
     </div>
