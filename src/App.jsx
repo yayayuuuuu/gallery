@@ -9,7 +9,7 @@ import WorkDetailPage from './pages/WorkDetailPage';
 function App() {
   return (
     <Router>
-      <div className="w-full max-w-[1366px] mx-auto bg-base-100">
+      <div className="main-layout min-h-screen">
         <Routes>
           <Route path="/" element={<HomePage />} />
           

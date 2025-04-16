@@ -18,7 +18,7 @@ function Shop() {
         alert(inputs);
     }
     return (
-        <>
+        <div className="main-layout min-h-screen">
             <Header />
             <WelcomeSection />
             <Navbar />
@@ -66,7 +66,7 @@ function Shop() {
                 </form>
             </div>
             <Footer />
-        </>
+        </div>
     )
 }
 
